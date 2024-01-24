@@ -1,0 +1,6 @@
+[id^=d] {
+    background-color: springgreen;
+    color: white;
+    height: 50px;
+    font-size: 30px;
+}

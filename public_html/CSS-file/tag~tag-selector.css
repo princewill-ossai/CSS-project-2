@@ -1,0 +1,6 @@
+h2 ~ p {
+    background-color: violet;
+    height: 50px;
+    color: white;
+    font-size: 30px;
+}
